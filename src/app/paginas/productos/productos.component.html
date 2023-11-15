@@ -1,0 +1,9 @@
+
+<div *ngFor="let producto of datos" class="producto">
+  <app-detalle-producto
+    [titulo]="producto.title"
+    [precio]="producto.price"
+    [imagen]="producto.image"
+    [id]="producto.id"
+    (click)="mostrar($event)" ></app-detalle-producto>
+</div>

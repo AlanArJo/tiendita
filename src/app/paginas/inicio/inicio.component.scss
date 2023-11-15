@@ -1,0 +1,107 @@
+.centrado {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+.titulo{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 4.5vw;
+  font-weight: 900;
+  color: black;
+  text-decoration: none;
+
+}
+
+
+.subtitulo{
+  font-family: Arial, Helvetica, sans-serif;
+  color: BLACK;
+  font-size: 2vw;
+}
+
+.rectangulo-izquierdo {
+  top: 45%;
+  left: 0;
+  position: fixed;
+  height: 5%;
+  width: 30%;
+  background-color: black;
+}
+.rectangulo-izquierdo2 {
+  top: 55%;
+  left: 0;
+  position: fixed;
+  height: 5%;
+  width: 33%;
+  background-color: black;
+}
+.rectangulo-izquierdo3 {
+  top: 65%;
+  left: 0;
+  position: fixed;
+  height: 5%;
+  width: 42%;
+  background-color: black;
+}
+.rectangulo-izquierdo4 {
+  top: 75%;
+  left: 0;
+  position: fixed;
+  height: 5%;
+  width: 50%;
+  background-color: black;
+}
+
+.rectangulo-derecho {
+  top: 35%;
+  right: 0;
+  position: fixed;
+  height: 5%;
+  width: 33%;
+  background-color: black;
+}
+.rectangulo-derecho2 {
+  top: 25%;
+  right: 0;
+  position: fixed;
+  height: 5%;
+  width: 42%;
+  background-color: black;
+}
+.rectangulo-derecho3 {
+  top: 15%;
+  right: 0;
+  position: fixed;
+  height: 5%;
+  width: 50%;
+  background-color: black;
+}
+.rectangulo-derecho4 {
+  top: 45%;
+  right: 0;
+  position: fixed;
+  height: 5%;
+  width: 30%;
+  background-color: black;
+}
+.linea-izquierdo {
+  top: 15%;
+  left: 0;
+  position: fixed;
+  height: 0.5%;
+  width: 30%;
+  background-color: black;
+}
+
+.linea-derecho {
+  top: 85%;
+  right: 0;
+  position: fixed;
+  height: 0.5%;
+  width: 30%;
+  background-color: black;
+}

@@ -1,0 +1,35 @@
+.producto{
+  background-color:white;
+  padding: 15px;
+  margin-bottom: 8px;
+}
+img{
+  width: 100%;
+  height: auto;
+  max-width: 700px;
+  margin: 0 auto;
+  display: block;
+}
+.titulo{
+  font-size: 5rem;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+.precio{
+  text-align: end;
+  font-size: 2.5rem;
+  font-family: 'Roboto', sans-serif;
+
+}
+.descripcion{
+  padding: 3rem;
+  text-align: justify;
+  font-size: 2rem;
+  font-family: 'Roboto', sans-serif;
+}
+.categoria{
+  padding: 3rem;
+  text-align: justify;
+  font-size: 2rem;
+  font-family: 'Roboto', sans-serif;
+}
